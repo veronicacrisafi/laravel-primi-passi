@@ -10,6 +10,7 @@
 <body>
     @include('header')
     <h1 class="text-center py-5">Contacts</h1>
+    @include('footer')
 </body>
 
 </html>

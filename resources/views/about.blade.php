@@ -12,6 +12,7 @@
     <div class="container">
         <h1 class="text-center py-5">About</h1>
     </div>
+    @include('footer')
 </body>
 
 </html>
