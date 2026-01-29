@@ -9,7 +9,7 @@
 
 <body>
     @include('header')
-    <div class="container">
+    <div class="container" style="height: 680px;">
         <h1 class="text-center py-5">About</h1>
     </div>
     @include('footer')
