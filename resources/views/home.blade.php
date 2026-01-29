@@ -8,13 +8,9 @@
 </head>
 
 <body>
-
+    @include('header')
+    <h1>Hello World!</h1>
 </body>
 
-<section>
-    <a href="{{route('about')}}">About</a>
-</section>
-
-<h1>Hello World!</h1>
 
 </html>
