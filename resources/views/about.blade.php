@@ -9,7 +9,9 @@
 
 <body>
     @include('header')
-    <h1>About</h1>
+    <div class="container">
+        <h1>About</h1>
+    </div>
 </body>
 
 </html>

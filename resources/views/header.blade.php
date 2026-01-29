@@ -9,9 +9,13 @@
 </head>
 
 <body>
-    <section>
-        <a href="{{route('home')}}">HomePage</a>
-        <a href="{{route('about')}}">About</a>
+    <section class="bg-dark">
+        <div class="container py-5">
+            <div class="d-flex justify-content-between">
+                <a href="{{route('home')}}">HomePage</a>
+                <a href="{{route('about')}}">About</a>
+            </div>
+        </div>
     </section>
 
 </body>
