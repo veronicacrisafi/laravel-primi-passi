@@ -10,7 +10,7 @@
 <body>
     @include('header')
     <div class="container">
-        <h1>Hello World!</h1>
+        <h1 class="text-center">Hello World!</h1>
     </div>
 </body>
 
