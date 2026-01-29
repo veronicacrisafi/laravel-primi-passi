@@ -14,6 +14,7 @@
             <div class="d-flex justify-content-between">
                 <a href="{{route('home')}}">HomePage</a>
                 <a href="{{route('about')}}">About</a>
+                <a href="{{route('contacts')}}">Contacts</a>
             </div>
         </div>
     </section>

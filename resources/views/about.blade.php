@@ -10,7 +10,7 @@
 <body>
     @include('header')
     <div class="container">
-        <h1 class="text-center">About</h1>
+        <h1 class="text-center py-5">About</h1>
     </div>
 </body>
 

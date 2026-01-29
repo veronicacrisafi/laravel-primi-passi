@@ -4,15 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Homepage-LARAVEL</title>
+    <title>Contacts-LARAVEL</title>
 </head>
 
 <body>
     @include('header')
-    <div class="container">
-        <h1 class="text-center py-5">Hello World!</h1>
-    </div>
+    <h1 class="text-center py-5">Contacts</h1>
 </body>
-
 
 </html>
