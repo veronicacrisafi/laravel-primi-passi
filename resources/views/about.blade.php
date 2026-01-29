@@ -4,17 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Homepage-LARAVEL</title>
+    <title>About-LARAVEL</title>
 </head>
 
 <body>
-
+    <h1>About</h1>
 </body>
-
-<section>
-    <a href="{{route('about')}}">About</a>
-</section>
-
-<h1>Hello World!</h1>
 
 </html>
